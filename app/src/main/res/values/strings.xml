@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="popular_option">Sort By Popularity</string>
+    <string name="top_rated_option">Sort By Top Rated</string>
+    <string name="youtube_video_base">https://www.youtube.com/watch?v=</string>
+    <string name="favorite_movies">Favorite Movies</string>
+    <string name="rating">Rating</string>
+    <string name="add_to_favorites">add to favorites</string>
+    <string name="movie_description">Movie</string>
+    <string name="read_more">Read More ...</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, at sed wisi graecis mentitum, nec cu harum movet. Cu autem ocurreret aliquando vis, nobis impedit sententiae ei vis. Has at quas idque, oratio nemore facete an eum. Dico ullum expetendis eos te. Semper consequat conceptam eu pri. Vis in ipsum pertinax, fabellas torquatos concludaturque cum ea, et has dictas facilis persequeris.
+    </string>
+    <string name="release_date">Release Date</string>
+</resources>
